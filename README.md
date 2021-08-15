@@ -2,5 +2,5 @@
 Notebooks del curso de Python básico.
 
 ```
-git clone 
+git clone https://github.com/HansHidalgo/PythonBasico.git
 ```
